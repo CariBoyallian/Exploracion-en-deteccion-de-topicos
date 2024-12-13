@@ -15,4 +15,6 @@ Los métodos tradicionales como TF-IDF mostraron mejor desempeño en términos d
 beddings neuronales  se destacó DistilBertcon con el modelo ETM. Sin embargo, el rendimiento global de estos modelos sigue siendo bajo con re-
 specto al Benchmarck Topic Models on 20NewsGroups.( https://paperswithcode.com/sota/topic-models-on-20newsgroups).
 
+# Desde el reporte se puede acceder directamente a cada notebook.
+
 
