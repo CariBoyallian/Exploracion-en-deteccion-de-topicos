@@ -9,7 +9,7 @@ Presentamos los resultados de una prueba de factibilidad en detección de temas,
 
 Como hipótesis inicial esperabamos que embeddings avanzados como LDA, Doc2Vec o DistilBERT superaran a TF-IDF en términos de calidad de clustering, dado que estos modelos están diseñados para capturar relaciones semánticas profundas entre palabras y documentos.
 
-# Conclusion
+# Conclusión
 
 Los métodos tradicionales como TF-IDF mostraron mejor desempeño en términos de pureza y coherencia en clustering básico, mientras que entre los em-
 beddings neuronales  se destacó DistilBertcon con el modelo ETM. Sin embargo, el rendimiento global de estos modelos sigue siendo bajo con re-
